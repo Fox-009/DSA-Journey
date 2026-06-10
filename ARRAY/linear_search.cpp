@@ -33,6 +33,6 @@ int main()
     }
     else
     {
-        cout << "Not found"
+        cout << "Not found";
     }
 }
