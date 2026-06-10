@@ -1,5 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+// Same as Koko Eating Bananas
+// Problem: Find smallest divisor such that sum of ceil(nums[i]/divisor) <= threshold
+
 long long time(vector<int> &piles, int hourly)
 {
     long long total = 0;
